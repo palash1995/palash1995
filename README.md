@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **palash.chaudhari95@gmail.com**
 
+- Reach out to me on LinkedIn [https://www.linkedin.com/in/palashchaudhari/](https://www.linkedin.com/in/palashchaudhari/)
+
 - ⚡ Interests **Hiking and Exploring new places**
 
 <h3 align="left">Connect with me:</h3>
