@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palash1995&label=Profile%20views&color=0e75b6&style=flat" alt="palash1995" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Airflow, Data Modeling**
-
 - 👯 I’m looking for opportunities in **Data Engineer, Data Analyst, Machine Learning Engineer**
 
-- 🤝 I’m looking for help with **Azure, AWS, ETL, Spark, Airflow based projects**
+- 🌱 I’m currently learning **Machine Learning, Airflow, Data Modeling**
+
+- 🤝 My expertise is in **Azure, AWS, ETL, Spark, Airflow based projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/palash1995](https://github.com/palash1995)
 
